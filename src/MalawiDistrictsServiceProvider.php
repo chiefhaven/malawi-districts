@@ -5,7 +5,7 @@ namespace HavenPlus\Districts;
 use Illuminate\Support\ServiceProvider;
 use HavenPlus\Districts\Console\Commands\InstallTranslationCommand;
 
-class LaravelCountriesServiceProvider extends ServiceProvider
+class MalawiDistrictsServiceProvider extends ServiceProvider
 {
     /**
      * Bootstrap any package services.
