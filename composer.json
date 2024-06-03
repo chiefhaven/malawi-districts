@@ -29,7 +29,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "HavenPlus\\Disctricts\\MalawiDistrictsServiceProvider"
+                "HavenPlus\\Districts\\MalawiDistrictsServiceProvider"
             ]
         }
     },
