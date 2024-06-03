@@ -14,7 +14,7 @@ class District implements CastsAttributes
      * @param  string  $key
      * @param  mixed  $value
      * @param  array  $attributes
-     * @return \WW\districts\Models\Country
+     * @return \WW\districts\Models\District
      */
     public function get($model, string $key, $value, array $attributes)
     {
