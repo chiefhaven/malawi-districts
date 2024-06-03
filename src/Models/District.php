@@ -20,6 +20,14 @@ class District extends Model
             'iso_code' => 'LL',
             'name' => 'Lilongwe'
         ],
+        [
+            'iso_code' => 'SA',
+            'name' => 'Salima'
+        ],
+        [
+            'iso_code' => 'BT',
+            'name' => 'Blantyre'
+        ]
     ];
 
     /**
