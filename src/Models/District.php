@@ -17,17 +17,123 @@ class District extends Model
      */
     protected $rows = [
         [
-            'iso_code' => 'LL',
+            'iso_code' => 'BA',
+            'name' => 'Balaka'
+        ],
+        [
+            'iso_code' => 'BL',
+            'name' => 'Blantyre'
+        ],
+        [
+            'iso_code' => 'CK',
+            'name' => 'Chikwawa'
+        ],
+        [
+            'iso_code' => 'CR',
+            'name' => 'Chiradzulu'
+        ],
+        [
+            'iso_code' => 'CT',
+            'name' => 'Chitipa'
+        ],
+        [
+            'iso_code' => 'DE',
+            'name' => 'Dedza'
+        ],
+        [
+            'iso_code' => 'DO',
+            'name' => 'Dowa'
+        ],
+        [
+            'iso_code' => 'KR',
+            'name' => 'Karonga'
+        ],
+        [
+            'iso_code' => 'KS',
+            'name' => 'Kasungu'
+        ],
+        [
+            'iso_code' => 'LK',
+            'name' => 'Likoma'
+        ],
+        [
+            'iso_code' => 'Ll',
             'name' => 'Lilongwe'
+        ],
+        [
+            'iso_code' => 'MH',
+            'name' => 'Machinga'
+        ],
+        [
+            'iso_code' => 'MG',
+            'name' => 'Mangochi'
+        ],
+        [
+            'iso_code' => 'MC',
+            'name' => 'Mchinji'
+        ],
+        [
+            'iso_code' => 'MU',
+            'name' => 'Mulanje'
+        ],
+        [
+            'iso_code' => 'MW',
+            'name' => 'Mwanza'
+        ],
+        [
+            'iso_code' => 'MZ',
+            'name' => 'Mzimba'
+        ],
+        [
+            'iso_code' => 'NE',
+            'name' => 'Neno'
+        ],
+        [
+            'iso_code' => 'NB',
+            'name' => 'Nkhata Bay'
+        ],
+        [
+            'iso_code' => 'NK',
+            'name' => 'Nkhotakota'
+        ],
+        [
+            'iso_code' => 'NS',
+            'name' => 'Nsanje'
+        ],
+        [
+            'iso_code' => 'NU',
+            'name' => 'Ntcheu'
+        ],
+        [
+            'iso_code' => 'NI',
+            'name' => 'Ntchisi'
+        ],
+        [
+            'iso_code' => 'PH',
+            'name' => 'Phalombe'
+        ],
+        [
+            'iso_code' => 'RU',
+            'name' => 'Rumphi'
         ],
         [
             'iso_code' => 'SA',
             'name' => 'Salima'
         ],
         [
-            'iso_code' => 'BT',
-            'name' => 'Blantyre'
-        ]
+            'iso_code' => 'TH',
+            'name' => 'Thyolo'
+        ],
+        [
+            'iso_code' => 'ZO',
+            'name' => 'Zomba'
+        ],
+        
+        
+        
+        
+        
+        
     ];
 
     /**
