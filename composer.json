@@ -1,0 +1,40 @@
+{
+    "name": "havenplus/malawi-disctricts",
+    "type": "library",
+    "description": "Laravel Malawi Disctricts is a bundle for Laravel providing ISO 3166_2 codes for Malawi's Districts, cast and validation rule.",
+    "keywords": [
+        "laravel",
+        "districts"
+    ],
+    "homepage": "https://havenplustechnologies.co.mw",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "James Walker",
+            "homepage": "https://havenplustechnologies.co.mw",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^8.0|^8.1|^8.2|^8.3",
+        "illuminate/database": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0",
+        "calebporzio/sushi": "^2.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "\\MalawiDistrictsServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
