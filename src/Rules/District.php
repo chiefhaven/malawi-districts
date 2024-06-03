@@ -3,7 +3,7 @@
 namespace HavenPlus\Districts\Rules;
 
 use Illuminate\Contracts\Validation\Rule;
-use Country as DistrictModel;
+use District as DistrictModel;
 
 class District implements Rule
 {
