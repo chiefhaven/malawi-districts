@@ -15,7 +15,7 @@ class District extends Model
      *
      * @var array
      */
-    protected $rowa = [
+    protected $rows = [
         [
             'iso_code' => 'LL',
             'name' => 'Lilongwe'
